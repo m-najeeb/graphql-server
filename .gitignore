@@ -1,6 +1,6 @@
 node_modules
 .env
-build# Logs
+# Logs
 logs
 *.log
 npm-debug.log*
@@ -92,6 +92,7 @@ out
 # Nuxt.js build / generate output
 .nuxt
 dist
+build
 
 # Gatsby files
 .cache/
